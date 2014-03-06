@@ -1,9 +1,9 @@
 //
 //  MyLongPressGestureRecognizer.h
-//  all2
+//  CYXMPPChat
 //
-//  Created by apple on 13-12-3.
-//  Copyright (c) 2013年 YiQiBaZi. All rights reserved.
+//  Created by FatKa Leung on 14-2-15.
+//  Copyright (c) 2014年 CYDESIGN. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>

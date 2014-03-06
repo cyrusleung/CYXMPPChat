@@ -33,7 +33,7 @@ NSString *pathInCacheDirectory(NSString *fileName){
 
 //根据URL的hash码为图片文件命名
 NSString *pathForURL(NSURL *aURL){
-    return pathInCacheDirectory([NSString stringWithFormat:@"com.yiqibazi/cachedImage-%u", [[aURL description] hash]]);
+    return pathInCacheDirectory([NSString stringWithFormat:@"com.cydesign/cachedImage-%u", [[aURL description] hash]]);
 }
 
 
