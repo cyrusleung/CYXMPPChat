@@ -7,7 +7,6 @@
 //
 
 #import "RosterViewController.h"
-#import "AppDelegate.h"
 #import "XMPPvCardTemp.h"
 #import "RosterCell.h"
 #import "VCardViewController.h"

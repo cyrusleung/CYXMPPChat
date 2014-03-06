@@ -3086,8 +3086,8 @@
 				INFOPLIST_FILE = "CYXMPPChat/CYXMPPChat-Info.plist";
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
-					/Users/CYDESIGN/Desktop/CYXMPPChat/CYXMPPChat/XMPPFramework/Vendor/libidn,
-					/Users/CYDESIGN/Desktop/CYXMPPChat/CYXMPPChat/Classes/Amr2Wav/VoiceConvert/lib,
+					/Users/cjl/Desktop/CYXMPPChat/CYXMPPChat/XMPPFramework/Vendor/libidn,
+					/Users/cjl/Desktop/CYXMPPChat/CYXMPPChat/Classes/Amr2Wav/VoiceConvert/lib,
 				);
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "";
@@ -3116,8 +3116,8 @@
 				INFOPLIST_FILE = "CYXMPPChat/CYXMPPChat-Info.plist";
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
-					/Users/CYDESIGN/Desktop/CYXMPPChat/CYXMPPChat/XMPPFramework/Vendor/libidn,
-					/Users/CYDESIGN/Desktop/CYXMPPChat/CYXMPPChat/Classes/Amr2Wav/VoiceConvert/lib,
+					/Users/cjl/Desktop/CYXMPPChat/CYXMPPChat/XMPPFramework/Vendor/libidn,
+					/Users/cjl/Desktop/CYXMPPChat/CYXMPPChat/Classes/Amr2Wav/VoiceConvert/lib,
 				);
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "";
