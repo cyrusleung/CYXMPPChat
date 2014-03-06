@@ -1,0 +1,28 @@
+Contents of /Users/FatKa/Desktop/CYXMPPChat/CYXMPPChat/CYXMPPChat-Prefix.pch
+-x
+objective-c
+-arch
+armv7
+-std=gnu99
+-fobjc-arc
+-fmodules
+-fmodules-cache-path=/Users/FatKa/Library/Developer/Xcode/DerivedData/ModuleCache
+-fpascal-strings
+-O0
+-DDEBUG=1
+-isysroot
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk
+-g
+-miphoneos-version-min=7.0
+-iquote
+-iquote
+-I/Users/FatKa/Desktop/CYXMPPChat/Build/Products/Debug-iphoneos/include
+-I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include
+-I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include
+-I/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/include/libxml2
+-F/Users/FatKa/Desktop/CYXMPPChat/Build/Products/Debug-iphoneos
+-F/Applications/Xcode.app/Contents/Developer/Library/Frameworks
+arm-apple-darwin13.0.0
+"4.2.1 Compatible Apple LLVM 5.0 (clang-500.2.79)"
+SDK_PRODUCT_BUILD_VERSION=11B508
+11B508
